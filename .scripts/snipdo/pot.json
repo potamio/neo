@@ -1,0 +1,12 @@
+{
+    "name": "Neo Translation",
+    "identifier": "com.pot-app.snipdoext.desktop",
+    "icon": "pot.png",
+    "actions": [
+        {
+            "title": "Neo Translation",
+            "icon": "pot.png",
+            "powershellFile": "pot.ps1"
+        }
+    ]
+}
