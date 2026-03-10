@@ -199,7 +199,7 @@ async function createDir(token, drive_id) {
         body: Body.json({
             drive_id,
             parent_file_id: 'root',
-            name: 'pot-app',
+            name: 'neo-app',
             type: 'folder',
             check_name_mode: 'refuse',
         }),
@@ -263,7 +263,7 @@ async function getFileByPath(token, drive_id, name) {
         },
         body: Body.json({
             drive_id,
-            file_path: `/pot-app/${name}`,
+            file_path: `/neo/${name}`,
         }),
     });
     if (res.ok) {

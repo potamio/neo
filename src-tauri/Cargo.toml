@@ -4,7 +4,7 @@ version = "0.0.0"
 description = "Neo App"
 authors = ["neo-app"]
 license = "GPL-3.0-only"
-repository = "https://github.com/pot-app/pot-desktop"
+repository = ""
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

@@ -29,9 +29,7 @@ export default function About() {
                         variant='light'
                         className='my-[5px]'
                         size='sm'
-                        onPress={() => {
-                            open('https://pot-app.com');
-                        }}
+                        onPress={() => {}}
                     >
                         {t('config.about.website')}
                     </Button>
@@ -39,9 +37,7 @@ export default function About() {
                         variant='light'
                         className='my-[5px]'
                         size='sm'
-                        onPress={() => {
-                            open('https://github.com/pot-app/pot-desktop');
-                        }}
+                        onPress={() => {}}
                     >
                         {t('config.about.github')}
                     </Button>
@@ -64,9 +60,7 @@ export default function About() {
                                     variant='light'
                                     className='my-[5px]'
                                     size='sm'
-                                    onPress={() => {
-                                        open('https://github.com/pot-app/pot-desktop/issues');
-                                    }}
+                                    onPress={() => {}}
                                 >
                                     {t('config.about.issue')}
                                 </Button>
@@ -74,9 +68,7 @@ export default function About() {
                                     variant='light'
                                     className='my-[5px]'
                                     size='sm'
-                                    onPress={() => {
-                                        open('mailto:support@pot-app.com');
-                                    }}
+                                    onPress={() => {}}
                                 >
                                     {t('config.about.email')}
                                 </Button>
@@ -118,9 +110,7 @@ export default function About() {
                                         variant='light'
                                         className='my-[5px]'
                                         size='lg'
-                                        onPress={() => {
-                                            open('https://pot-app.com/img/qq_group.png');
-                                        }}
+                                        onPress={() => {}}
                                     >
                                         <BsTencentQq />
                                     </Button>
@@ -131,9 +121,7 @@ export default function About() {
                                         variant='light'
                                         className='my-[5px]'
                                         size='lg'
-                                        onPress={() => {
-                                            open('https://t.me/pot_app');
-                                        }}
+                                        onPress={() => {}}
                                     >
                                         <BsTelegram />
                                     </Button>
@@ -144,9 +132,7 @@ export default function About() {
                                         variant='light'
                                         className='my-[5px]'
                                         size='lg'
-                                        onPress={() => {
-                                            open('https://github.com/pot-app/pot-desktop/discussions');
-                                        }}
+                                        onPress={() => {}}
                                     >
                                         <BsGithub />
                                     </Button>

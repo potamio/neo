@@ -1,1 +1,1 @@
-// No built-in TTS after removing Lingva (pot-app)
+// No built-in TTS (Lingva removed)

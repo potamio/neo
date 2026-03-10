@@ -1,6 +1,6 @@
 {
     "name": "Neo Translation",
-    "identifier": "com.pot-app.snipdoext.desktop",
+    "identifier": "com.neo-app.snipdoext.desktop",
     "icon": "pot.png",
     "actions": [
         {
